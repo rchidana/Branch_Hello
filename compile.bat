@@ -1,1 +1,1 @@
-echo "This is checkout / compilation step"
+echo "This is compilation step"
